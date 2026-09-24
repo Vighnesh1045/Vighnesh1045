@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <a href="mailto:vighneshmhatre00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vighneshmhatre00-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vighnesh-anant-mhatre">
+    <img src="https://img.shields.io/badge/LinkedIn-Vighnesh_Mhatre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/Vighnesh1045">
     <img src="https://img.shields.io/badge/GitHub-Vighnesh1045-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
