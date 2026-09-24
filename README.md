@@ -1,51 +1,65 @@
-### Hey, I'm Vighnesh 👋
+<h1 align="center">Vighnesh Mhatre</h1>
 
-I build backend systems and data pipelines that actually run in production — not just notebooks that work once. Junior Data Analyst / Data Engineer / Backend Developer, based in Navi Mumbai, open to **remote and on-site** roles.
+<p align="center">
+  Data Engineer &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Power BI<br>
+  Mumbai, India
+</p>
 
-I like taking messy, real-world data and broken manual processes and turning them into APIs, pipelines, and dashboards that don't fall over.
-
----
-
-### 🔧 What I work with
-
-**Backend:** Python · FastAPI · Django · Flask · REST APIs
-**Data:** SQL · Pandas · Data Analytics · ETL / migration pipelines
-**ML/AI:** Scikit-learn · LangChain · LLaMA
-**Deployment & Viz:** Streamlit · Power BI
+<p align="center">
+  <a href="https://github.com/Vighnesh1045">
+    <img src="https://img.shields.io/badge/GitHub-Vighnesh1045-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 Projects I'm proud of
+## About
 
-**ERPNext Migration & Backend System**
-Built a FastAPI backend with encrypted session auth (8-hour token lifecycle) and an idempotent migration pipeline that reconciled **34,839 item records** from a messy 13,679-row Excel source across 787 supplier entities — with a 200-item zero-failure production pilot. Also shipped automated field-population scripts after tracking down a nasty field-reference bug.
-
-**CricGenAI — Multilingual NL-to-SQL Agent**
-A multi-agent system (LangChain + LLaMA 3.3 70B) that lets you ask cricket questions in **English, Hindi, or Marathi** and get real SQL-backed answers from a 9-table database. Built this because I wanted to see how far local-language NL-to-SQL could actually go.
-
-**Mini CRM**
-A REST backend built with Flask + SQLite — clean CRUD, simple auth, built to be a lightweight reference implementation of a working CRM API.
-
-**Loan Default Prediction**
-Random Forest model at ~90% accuracy on a large dataset, deployed with Streamlit so it's actually usable, not just a script in a repo.
-
-**Power BI Dashboards**
-Insurance and supply chain analytics dashboards — turning raw operational data into decisions people can act on.
-
-*(Repo links below — go check the code, not just this summary.)*
+I work at the intersection of backend engineering and data science. My focus is on production-grade data pipelines, idempotent ETL systems, and turning messy operational data into decisions people can act on. I care about measurable outcomes — zero-failure migration pilots, geocoding coverage rates, and dashboards that surface the right number at the right moment.
 
 ---
 
-### 🛠️ Currently working on
+## Featured Projects
 
-Polishing my backend projects for public portfolio quality, and prepping for junior SWE / backend interviews — deep-diving into system design, API architecture, and the edge cases that come with real data at scale.
+| Project | Stack | Highlights |
+|---|---|---|
+| **[CricGenAI](https://github.com/Vighnesh1045/cricgenai-2026)** | LangChain · LLaMA 3.3 70B · SQLite · Streamlit | Multi-agent NL-to-SQL system supporting English, Hindi & Marathi queries against a 9-table cricket database — M.Sc. research project |
+| **[Supply Chain Dashboard](https://github.com/Vighnesh1045/Supply-Chain-Analysis-PBI)** | Power BI · MySQL · SQL Server · DAX | Supply/demand gap analysis with test-to-production SQL migration; identified $301K profit optimisation opportunity |
+| **[Python Data Pipeline Modules](https://github.com/Vighnesh1045/-python-data-pipline-modules)** | Python · Pandas · threading | Reference collection of concurrency fundamentals and a full multi-tier fallback pricing + Realization % pipeline — built from real ERP/analyst problems |
 
 ---
 
-### 📫 Let's connect
+## Technical Stack
 
-- 💼 [LinkedIn](https://linkedin.com/in/vighnesh-mhatre)
-- 🌐 [Portfolio](https://vighnesh1045.github.io/portfolio)
-- 📧 Open to opportunities — reach out via LinkedIn or drop an issue on any repo here
+**Languages & Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square)
 
-If you're hiring for backend, data, or analyst roles and want someone who ships working systems, let's talk.
+**Data & Analytics** &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI / ML** &nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-7C3AED?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Production & Deployment** &nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
