@@ -37,6 +37,17 @@ I work at the intersection of backend engineering and data science. My focus is 
 
 ---
 
+## Production Engineering Highlights · Electrolab (Aug 2026 – Present)
+
+| System | Problem | Approach |
+|---|---|---|
+| **Geocoding pipeline** | Customer location data had gaps — only ~60% of 2,156 records had valid coordinates | Built a resumable, idempotent multi-provider pipeline with cross-provider distance-threshold validation and a human-approval queue; raised coverage to **86% (1,853 / 2,156)** with a full audit trail per coordinate |
+| **ERPNext supplier backfill** | 13,679-item master had no supplier links; manual process would have taken weeks | Automated bulk backfill of **18,755 supplier links** with a pilot-first, idempotent design — **0 failures** in production |
+| **Production incident (Django admin)** | Live 500 error in a production admin action; zero server-side logs to work from | Reproduced failure against real data, root-caused the bug, shipped a fix, and closed the underlying logging gap — all without a staging environment |
+| **Legacy CLI modernisation** | 6,175-line Tkinter desktop app for customer report generation; 4 copies of hardcoded credentials, two data-safety bugs | Refactored to a CLI tool (`generate` / `upload` / `run-all` subcommands); removed **~350 lines** of duplicated logic, reduced credential copies from 4 to 1, fixed both safety bugs |
+
+---
+
 ## Technical Stack
 
 **Languages & Backend** &nbsp;
