@@ -32,7 +32,7 @@ I work at the intersection of backend engineering and data science. My focus is 
 | Project | Stack | Highlights |
 |---|---|---|
 | **[CricGenAI](https://github.com/Vighnesh1045/cricgenai-2026)** | LangChain · LLaMA 3.3 70B · SQLite · Streamlit | Multi-agent NL-to-SQL system supporting English, Hindi & Marathi queries against a 9-table cricket database — M.Sc. research project |
-| **[Supply Chain Dashboard](https://github.com/Vighnesh1045/Supply-Chain-Analysis-PBI)** | Power BI · MySQL · SQL Server · DAX | Supply/demand gap analysis with test-to-production SQL migration; identified $301K profit optimisation opportunity |
+| **[Supply Chain Dashboard](https://github.com/Vighnesh1045/Supply-Chain-Analysis-PBI)** | Power BI · MySQL · SQL Server · DAX | Supply/demand gap analysis with test-to-production SQL migration; 61K-unit supply shortage, $8M total loss, $301K total profit quantified |
 | **[Python Data Pipeline Modules](https://github.com/Vighnesh1045/-python-data-pipline-modules)** | Python · Pandas · threading | Reference collection of concurrency fundamentals and a full multi-tier fallback pricing + Realization % pipeline — built from real ERP/analyst problems |
 
 ---
